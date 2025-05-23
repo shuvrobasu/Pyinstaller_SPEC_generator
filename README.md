@@ -53,8 +53,6 @@ This tool aims to abstract away the complexities of PyInstaller's command-line a
 | ![Advanced Tab Screenshot Windows](images/advanced_tab_win.png) | 
 | _Compilation options and Windows-specific settings._ | _(Conceptual: macOS-specific settings like bundle ID, codesigning)_ |
 
-*(Note: Replace `images/screenshot1.png`, `images/main_tab.png`, `images/build_tab_building.png`, `images/advanced_tab_win.png`, `images/advanced_tab_mac.png` with actual screenshots from your application.)*
-
 ## Installation
 
 ### Prerequisites
