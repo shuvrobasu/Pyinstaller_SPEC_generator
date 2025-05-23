@@ -82,8 +82,7 @@ This tool aims to abstract away the complexities of PyInstaller's command-line a
     ```bash
     python pyinstaller_spec_generator.py
     ```
-    (Assuming your main script is named `pyinstaller_spec_generator.py`. Adjust if different.)
-
+    
 ### Installing PyInstaller
 
 When you launch the application, it will check for `PyInstaller`. If not found, it will prompt you. You can also manually click the "Check PyInstaller" button.
