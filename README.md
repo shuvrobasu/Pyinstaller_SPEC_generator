@@ -48,9 +48,9 @@ This tool aims to abstract away the complexities of PyInstaller's command-line a
 | ![Main Tab Screenshot](images/main_tab.png)   | ![Build Tab Screenshot](images/build_tab_building.png)    |
 | _Analysis results, additional files, and tool checks._ | _Build output, progress bar, and active 'Abort Build' button._ |
 
-| Advanced Tab (Windows)                           | Advanced Tab (macOS - conceptual)                             |
-| :----------------------------------------------- | :------------------------------------------------------------ |
-| ![Advanced Tab Screenshot Windows](images/advanced_tab_win.png) | ![Advanced Tab Screenshot macOS](images/advanced_tab_mac.png) |
+| Advanced Tab (Windows)                           | 
+| :----------------------------------------------- | 
+| ![Advanced Tab Screenshot Windows](images/advanced_tab_win.png) | 
 | _Compilation options and Windows-specific settings._ | _(Conceptual: macOS-specific settings like bundle ID, codesigning)_ |
 
 *(Note: Replace `images/screenshot1.png`, `images/main_tab.png`, `images/build_tab_building.png`, `images/advanced_tab_win.png`, `images/advanced_tab_mac.png` with actual screenshots from your application.)*
